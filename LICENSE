@@ -186,7 +186,11 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   This product includes software components from the Bootstrap examples, which licensed under the MIT License. For details on the MIT License, please visit https://mit-license.org/.
+   - Bootstrap, copyrighted by The Bootstrap Authors (2011-2024), available at https://github.com/twbs/bootstrap
+   - Bootstrap Examples, copyrighted by Bootstrap (2022), available at https://github.com/twbs/examples
+
+   Copyright 2024 JasonL111
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
